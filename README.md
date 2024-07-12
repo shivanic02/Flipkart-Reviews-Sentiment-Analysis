@@ -11,7 +11,7 @@ This project performs sentiment analysis on Flipkart product reviews using Pytho
 
 ## Introduction
 
-Sentiment analysis is a technique used in natural language processing (NLP) to determine the sentiment or emotion behind a piece of text. In this project, we analyze product reviews from Flipkart to classify them as positive or negative. This analysis can help businesses understand customer opinions and improve their products and services.
+Sentiment analysis is a technique used in natural language processing (NLP) to determine the sentiment or emotion behind a piece of text. In this beginner friendly project, we analyze product reviews from Flipkart to classify them as positive or negative or neutral. This analysis can help businesses understand customer opinions and improve their products and services.
 
 ## Data
 
